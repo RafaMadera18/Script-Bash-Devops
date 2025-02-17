@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ -z "$1" ]; then
   echo "Error: No se proporcionó un argumento."
   exit 1
